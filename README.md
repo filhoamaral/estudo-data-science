@@ -1,4 +1,4 @@
-﻿# Estudo Data Science
+﻿# Estudo Data Science 📈
  
  ## Introdução
  Esse repositório foi criado com a intenção de registrar o estudo de Ciência de Dados
