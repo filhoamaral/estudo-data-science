@@ -1,7 +1,7 @@
 ﻿# Estudo Data Science 📈
  
- ## Introdução
- Esse repositório foi criado com a intenção de registrar o estudo de Ciência de Dados
+## Introdução
+Esse repositório foi criado com a intenção de registrar o estudo praticado sobre a Ciência de Dados
 
 ## Ambiente
 1. Python 3.7.8 x64
