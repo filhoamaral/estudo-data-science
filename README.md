@@ -10,15 +10,15 @@ Esse repositório foi criado com a intenção de registrar o estudo praticado so
 3. Cudnn-10.1-windows10-x64-v7.6.5.32
 
 ## Instalação
-1. Instale o VirtualEnv usando o pip 
+1. Baixe ou clone o repositório na pasta do ambiente
+2. Instale o VirtualEnv usando o pip 
 ```sh 
 > pip install virtualenv
 ```
-2. Crie o seu ambiente virtual 
+3. Crie o ambiente virtual 
 ```sh
-> virtualenv <nome do ambiente>
+> virtualenv .
 ```
-3. Baixe ou clone o repositório na pasta do ambiente
 4. Ative o ambiente no Windows digitando no terminal 
 ```sh
 > .\Scripts\activate
