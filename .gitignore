@@ -1,4 +1,7 @@
 # Distribution / packaging
+.ipynb_checkpoints/
+etc/
 Lib/
 Scripts/
+share/
 pyvenv.cfg
