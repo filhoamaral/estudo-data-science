@@ -47,3 +47,11 @@ GPU
 |tensorflow_gpu-1.13.0	|3.5-3.7	|Atualização 3 do MSVC 2015|	Bazel 0.19.0-0.21.0	|7.4	|10|
 
 https://www.tensorflow.org/install/source_windows?hl=pt-br#gpu
+
+front-end jupyterdebugger
+jupyter labextension install @jupyterlab/debugger
+
+back-end
+pip install xeus-python
+
+
